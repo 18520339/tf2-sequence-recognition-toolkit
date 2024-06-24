@@ -1,2 +1,5 @@
 __pycache__/
 datasets/
+build/
+dist/
+*.egg-info/
